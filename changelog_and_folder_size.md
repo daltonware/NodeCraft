@@ -14,6 +14,10 @@ Each version probably has a different storage space usage. So i measured them on
 
 1.1.0 (NO BLOCK GRID VERSION, STILL WORKING ON THE 1 BLOCK GRID) unzipped folder size: 259 MB
 
+1.1.1 (fixed 1.1.0) zip size: 104 MB
+
+1.1.1 (fixed 1.1.0) unzipped folder size: 259 MB
+
 #########################################################################################
 
 CHANGELOG
