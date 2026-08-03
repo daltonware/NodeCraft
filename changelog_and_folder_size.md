@@ -22,4 +22,14 @@ CHANGELOG
 
 1.1.0 - Patched a performance limitation in which Windows would run the game in efficiency mode, introduced infinite world generation, world saves, menus and removed block grid, but stay tuned because i will release 1.1.1 with only the block grid at the block you're aiming on
 
-1.1.1 - new block grid system, more features coming soon
+1.1.1 - Versions 1.1.0 and 1.1.1 marked a major step in the game's development, implementing:
+
+  An infinite chunk generation engine,
+
+  A robust persistent save system (what you build stays there forever),
+
+  HTML/CSS Menus integrated with the 3D engine
+
+  And a HUGE optimization
+
+All with 8 world slots, and as i said before, what you build stays there FOREVER!
